@@ -39,5 +39,5 @@ class InstagramBot:
         print('Logado no instagram')
 
 
-vitor=InstagramBot('santosgomesv@gmail.com','shutdown-Hnow22@')
+vitor=InstagramBot('login','senha')
 vitor.login()
